@@ -1,6 +1,6 @@
 📋 IdealQueue – Sistema Inteligente de Gestão de Filas
 
-Sistema web desenvolvido para gestão eficiente de filas em clínicas populares, permitindo cadastro de pacientes, controle de atendimento em baias e gerenciamento de prioridades (idosos, gestantes, etc.).
+Sistema web desenvolvido para gestão eficiente de filas em clínicas populares, permitindo cadastro de pacientes, controle de atendimento em guichês e gerenciamento de prioridades (idosos, gestantes, etc.).
 
 O objetivo do sistema é reduzir tempo de espera, organizar atendimentos e melhorar a experiência do paciente.
 
@@ -57,9 +57,9 @@ Tempo médio de espera
 
 O sistema permite visualizar:
 
-Baias disponíveis
+Guichês disponíveis
 
-Baias ocupadas
+Guichês ocupadas
 
 Pacientes em atendimento
 
@@ -77,7 +77,7 @@ Modo especial para TV ou monitor público, mostrando:
 
 Pacientes chamados
 
-Baias disponíveis
+Guichês disponíveis
 
 Status da fila
 
@@ -174,7 +174,7 @@ localStorage
 
 Permite:
 
-salvar pacientes
+salvar candidatos
 
 recuperar fila
 
